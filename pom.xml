@@ -35,7 +35,8 @@
 					<cloudhub2Deployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<provider>MC</provider>
-						<environment>Sandbox</environment>
+						<businessGroup>UHIS</businessGroup>
+   					    <environment>Dev</environment>
 						<target>Cloudhub-US-East-2</target>
 						<muleVersion>4.4.0</muleVersion>
 						<server>ca.anypoint.credentials</server>
