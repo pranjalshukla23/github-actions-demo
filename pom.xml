@@ -38,7 +38,7 @@
 						<businessGroup>UHIS</businessGroup>
    					    <environment>DEV</environment>
 						<target>Cloudhub-US-East-2</target>
-						<muleVersion>4.4.0</muleVersion>
+						<muleVersion>4.9.5</muleVersion>
 						<server>ca.anypoint.credentials</server>
 						<applicationName>github-actions-demo-v1</applicationName>
 						<replicas>1</replicas>
