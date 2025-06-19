@@ -2,7 +2,7 @@
     <servers>
         <server>
             <id>ca.anypoint.credentials</id>
-            <username>pshukla23</username>
+            <username>~~~Client~~~</username>
             <password>${CA_CLIENT_ID}~?~${CA_CLIENT_SECRET}</password>
         </server>
     </servers>
